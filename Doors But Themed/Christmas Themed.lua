@@ -1,3 +1,13 @@
+--[[ credit all these people while using this script
+-- ImAhaz#1873 https://www.youtube.com/@imahaz/videos
+-- Zepsyy#0006 this guy did so much credit this guy
+-- Credit to @Mye for obfuscating it 
+-- Credit to @Crafted @NotChrono and moon  for helping model
+-- Credit to @NotChrono for helping script some of it 
+-- and finaly Credit to @PenguinManiack for making the script and most of its models
+-- credit kardian hong
+]]--
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ZepsyyCodesLUA/Utilities/main/Doors/Christmas.lua'))()
 
 local userInputService = game:GetService("UserInputService")

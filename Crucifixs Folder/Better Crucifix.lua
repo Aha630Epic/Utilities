@@ -1,3 +1,5 @@
+-- idk why this is not full but im not fixing it lol --
+
 local shadow=game:GetObjects("rbxassetid://11712848097")[1]
 shadow.Parent = game.Players.LocalPlayer.Backpack
 local Players = game:GetService("Players")

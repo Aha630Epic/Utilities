@@ -101,7 +101,7 @@ CrucifixTool.Parent = game.Players.LocalPlayer.Backpack
 -- end)
 -- Input handler
 
-local sound = CrucifixTool.Handle.Sound
+local sound = CrucifixTool.Handle.Jingle
 
 tool.Equipped:Connect(function()
 sound.Resume()

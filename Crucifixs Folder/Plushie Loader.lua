@@ -5,4 +5,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Aha630Epic/Utilities/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Aha630Epic/Utilities/main/Crucifixs%20Folder/Rush%20Plushie.lua"))();
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Aha630Epic/Utilities/main/Crucifixs%20Folder/Seek%20Plushie.lua"))();
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Aha630Epic/Utilities/main/Crucifixs%20Folder/Screech%20Plushie.lua"))();
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Aha630Epic/Utilities/main/Crucifixs%20Folder/A-60%20Plushie.lua"))();

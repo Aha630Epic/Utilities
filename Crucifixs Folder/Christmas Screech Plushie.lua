@@ -101,6 +101,16 @@ CrucifixTool.Parent = game.Players.LocalPlayer.Backpack
 -- end)
 -- Input handler
 
+local sound = CrucifixTool.Handle.Sound
+
+tool.Equipped:Connect(function()
+sound.Resume()
+end)
+
+tool.Unequipped:Connect(function()
+sound.End()
+end)
+
 setupCrucifix(CrucifixTool)
 
 local Players = game:GetService("Players")

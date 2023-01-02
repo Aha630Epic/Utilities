@@ -101,6 +101,11 @@ CrucifixTool.Parent = game.Players.LocalPlayer.Backpack
 -- end)
 -- Input handler
 
+setupCrucifix(CrucifixTool)
+
+local Players = game:GetService("Players")
+local UIS = game:GetService("UserInputService")
+
 -- Variables
 
 local Plr = Players.LocalPlayer

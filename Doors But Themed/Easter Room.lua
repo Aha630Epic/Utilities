@@ -3,7 +3,7 @@ local function setup(room)
         if v.Name=="FakeDoor_Hotel" then
         local FakeDoor_Hotel =  workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value]:FindFirstChild("FakeDoor_Hotel", true)
         local newdoor = FakeDoor_Hotel.FakeDoor.CFrame
-        local model = game:GetObjects("rbxassetid://11837760232")[1]
+        local model = game:GetObjects("rbxassetid://12048326698")[1]
         model.Parent = workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value]
         model:SetPrimaryPartCFrame(newdoor)
         FakeDoor_Hotel:Destroy() -- bedroom
